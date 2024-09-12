@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1rishu0" alt="1rishu0" /></a> </p>
 
-- 🌱 I’m currently learning **Java , Python , AI , Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **HTML , CSS**
+- 💬 Ask me about **HTML , CSS , Java , Python**
 
 - 📫 How to reach me **rishabhkaparwan8@gmail.com**
 
