@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
-<h3 align="center">A passionate developer specializing in Java, artificial intelligence (AI), and machine learning (ML) from India</h3>
+<h3 align="center">A passionate developer specializing in Artificial Intelligence (AI), and  Data Science from India</h3>
 
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
